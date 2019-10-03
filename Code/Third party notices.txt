@@ -1,0 +1,5 @@
+﻿THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+
+B&K incorporates components from the projects listed below. 
+
+1.	NAudio (https://github.com/naudio/NAudio) licensed under the Microsoft Public License
